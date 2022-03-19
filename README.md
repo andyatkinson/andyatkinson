@@ -2,7 +2,7 @@
 
 I am ✨ _Andrew_ ✨ (or [Andy](https://andyatkinson.com/)).
 
-I'm a Staff Software Engineer at [Fountain](http://fountain.com/) ⛲ (née [@onboardiq](https://github.com/onboardiq)).
+I'm a Staff Software Engineer at [Fountain](http://fountain.com/) ⛲ ([@onboardiq](https://github.com/onboardiq)).
 
 I live in [Minneapolis, MN](https://en.wikipedia.org/wiki/Minneapolis%E2%80%93Saint_Paul), USA. I'm a [Timberwolves](https://twitter.com/timberwolves) NBA 🏀 fan, dad, husband, and runner 🏃.
 
