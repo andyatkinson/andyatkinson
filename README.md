@@ -1,10 +1,8 @@
 ### Hello. 👋
 
-I'm ✨ _Andrew_ ✨ (or [Andy](https://andyatkinson.com/)).
+I'm a Software Engineer who specializes in building high performance web applications using PostgreSQL and Ruby on Rails.
 
-- 💬 Ask me about Ruby on Rails, PostgreSQL, and Elasticsearch.
-- 📫 How to reach me: https://andyatkinson.com/contact
-- 😄 Pronouns: (he/him)
+Learn more about my book *High Performance PostgreSQL for Rails* (Pragmatic Programmers, 2023) by visiting <https://pgrailsbook.com>, where you can subscribe for book updates and exclusive content.
 
 I care about Diversity, Equity, and Inclusion. I support [#BlackLivesMatter](https://twitter.com/hashtag/BlackLivesMatter) ✊🏿 and [#StandWithUkraine](https://twitter.com/hashtag/StandWithUkraine).🇺🇦
 
